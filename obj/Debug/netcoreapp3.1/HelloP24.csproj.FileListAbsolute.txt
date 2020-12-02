@@ -1,0 +1,13 @@
+C:\Users\std\source\repos\HelloP24\bin\Debug\netcoreapp3.1\HelloP24.exe
+C:\Users\std\source\repos\HelloP24\bin\Debug\netcoreapp3.1\HelloP24.deps.json
+C:\Users\std\source\repos\HelloP24\bin\Debug\netcoreapp3.1\HelloP24.runtimeconfig.json
+C:\Users\std\source\repos\HelloP24\bin\Debug\netcoreapp3.1\HelloP24.runtimeconfig.dev.json
+C:\Users\std\source\repos\HelloP24\bin\Debug\netcoreapp3.1\HelloP24.dll
+C:\Users\std\source\repos\HelloP24\bin\Debug\netcoreapp3.1\HelloP24.pdb
+C:\Users\std\source\repos\HelloP24\obj\Debug\netcoreapp3.1\HelloP24.csprojAssemblyReference.cache
+C:\Users\std\source\repos\HelloP24\obj\Debug\netcoreapp3.1\HelloP24.AssemblyInfoInputs.cache
+C:\Users\std\source\repos\HelloP24\obj\Debug\netcoreapp3.1\HelloP24.AssemblyInfo.cs
+C:\Users\std\source\repos\HelloP24\obj\Debug\netcoreapp3.1\HelloP24.csproj.CoreCompileInputs.cache
+C:\Users\std\source\repos\HelloP24\obj\Debug\netcoreapp3.1\HelloP24.dll
+C:\Users\std\source\repos\HelloP24\obj\Debug\netcoreapp3.1\HelloP24.pdb
+C:\Users\std\source\repos\HelloP24\obj\Debug\netcoreapp3.1\HelloP24.genruntimeconfig.cache
